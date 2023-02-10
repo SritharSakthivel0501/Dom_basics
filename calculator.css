@@ -1,0 +1,13 @@
+.display{
+    height: 171px;
+    width: 167px;
+    border: 2px solid;
+}
+.input{
+    height: 30px;
+    width: 165px;
+    border: 2px solid;
+}
+button{
+    margin: 0px 12px 11px 2px;
+}
